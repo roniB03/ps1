@@ -13,7 +13,7 @@ Keep the other lines as they are. Do not add another `print`.
 
 ## Practice in Colab (optional)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BIU-python-medicine-2027/ps1/blob/main/hello_world.ipynb)
+<a href="https://colab.research.google.com/github/BIU-python-medicine-2027/ps1/blob/main/hello_world.ipynb" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 The notebook is not graded — only `hello.py` counts.
 
